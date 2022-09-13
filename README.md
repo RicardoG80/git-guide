@@ -1,1 +1,1 @@
-# git-guide
+# git-init-sample
